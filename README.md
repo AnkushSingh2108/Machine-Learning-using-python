@@ -1,2 +1,2 @@
 # Machine-Learning-using-python
-These are the files which i have practiced Machine Learning
+These are the files which I have practiced Machine Learning
